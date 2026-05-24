@@ -1,4 +1,4 @@
-# semana8 LAB
+# semana8 y semana9 LAB
 # Laboratorio Angular con GitHub Codespaces
 ## Descripción
 Proyecto Angular creado desde GitHub Codespaces para validar un entorno de desarrollo en la nube.
